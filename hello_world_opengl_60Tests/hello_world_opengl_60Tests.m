@@ -26,7 +26,7 @@
 
 - (void)testExample
 {
-    STAssertTrue(TRUE == TRUE, @"Uhm, er, how can that be?  Typo?");
+    STAssertTrue(TRUE == TRUE, @"This is a new test?  Typo?");
 
 //    STFail(@"Unit tests are not implemented yet in hello_world_opengl_60Tests");
 }
